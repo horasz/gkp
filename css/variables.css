@@ -1,0 +1,16 @@
+/* 🎨 Ganti warna & font di sini */
+:root {
+  --c-ink: #0f1c20;
+  --c-ink-2: #172a2f;
+  --c-paper: #f7f5f0;
+  --c-text: #1d2a2d;
+  --c-muted: #6b787b;
+  --c-gold: #d6a244;
+  --c-line: rgba(255,255,255,.35);
+
+  --f-head: 'Cormorant Garamond', Georgia, serif;
+  --f-body: 'Nunito Sans', system-ui, sans-serif;
+
+  --maxw: 1100px;
+  --radius: 6px;
+}
